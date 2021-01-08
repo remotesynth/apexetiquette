@@ -1,6 +1,11 @@
 ---
 title: Chat Etiquette
+description: Not sure what this is
+bref: Or this
+date: 2021-01-08T21:47:16.093Z
 weight: 4
+draft: true
+toc: true
 ---
 # Chat Etiquette
 
